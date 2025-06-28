@@ -1,5 +1,8 @@
 # MERN Notes App 📝
 
+## Screenshot
+![App Screenshot](./client/public/screenshot.jpg)
+
 A full-stack Notes application built with:
 
 - MongoDB
@@ -7,9 +10,6 @@ A full-stack Notes application built with:
 - React (with Vite)
 - Node.js
 - TailwindCSS for styling
-
-## Screenshot
-![App Screenshot](./client/public/screenshot.jpg)
 
 ## Features
 
