@@ -9,7 +9,7 @@ A full-stack Notes application built with:
 - TailwindCSS for styling
 
 ## Screenshot
-![App Screenshot](./client/public/screenshot.jog)
+![App Screenshot](/client/public/screenshot.jog)
 
 ## Features
 
