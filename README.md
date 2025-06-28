@@ -8,6 +8,9 @@ A full-stack Notes application built with:
 - Node.js
 - TailwindCSS for styling
 
+## Screenshot
+![App Screenshot](./client/public/screenshot.jog)
+
 ## Features
 
 ✅ Create, Read, Update, Delete Notes  
